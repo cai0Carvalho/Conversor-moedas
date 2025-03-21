@@ -1,6 +1,4 @@
 # Ignore build and IDE files
-/.idea/
-/*.class
 /target/
-/out/
-*.iml
+/bin/
+/.vscode/
